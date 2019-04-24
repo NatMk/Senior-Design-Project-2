@@ -1,0 +1,17 @@
+* {
+    background-color: graytext;
+    font-family: Arial;
+    
+}
+h1{
+    text-align: center;
+    background-color: activeborder
+}
+
+h2{
+    text-decoration: underline;
+   
+}
+p, ul{
+    color: #FFF;
+}
